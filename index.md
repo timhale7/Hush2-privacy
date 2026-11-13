@@ -75,4 +75,4 @@ This privacy policy may be updated when application functionality or data-handli
 
 For questions about this privacy policy, contact:
 
-**[Developer support email address]**
+**[tim.hale.ar@gmail.com]**
