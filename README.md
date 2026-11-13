@@ -1,2 +1,2 @@
 # Hush2-privacy
-app public privacy policy repo
+privacy policy for Hush! (alias Hush2)
